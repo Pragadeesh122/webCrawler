@@ -1,0 +1,11 @@
+{
+  "name": "webCrawler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crawlee": "^3.11.5",
+    "playwright": "^1.48.0",
+    "typescript": "^5.6.3"
+  }
+}
